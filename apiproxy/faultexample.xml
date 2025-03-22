@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="faultexample">
+  <DisplayName/>
+  <Description/>
+  <CreatedAt>1742445402613</CreatedAt>
+  <LastModifiedAt>1742445402613</LastModifiedAt>
+  <BasePaths>/faultexample</BasePaths>
+  <Policies>
+    <Policy>SA-</Policy>
+    <Policy>AM-4</Policy>
+    <Policy>AM-</Policy>
+  </Policies>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>

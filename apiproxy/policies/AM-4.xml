@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage continueOnError="false" enabled="true" name="AM-4">
+  <DisplayName>AM-</DisplayName>
+  <Properties/>
+  <Set>
+    <Headers/>
+    <QueryParams/>
+    <FormParams/>
+    <!-- <Verb>GET</Verb> -->
+    <Path/>
+    <Payload contenttype="application/json">
+           {"error":"spike message"}
+    </Payload>
+  </Set>
+  <AssignVariable>
+    <Name>name</Name>
+    <Value/>
+    <Ref/>
+  </AssignVariable>
+  <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+  <AssignTo createNew="false" transport="http" type="request"/>
+</AssignMessage>
