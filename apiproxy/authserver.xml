@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="authserver">
+  <DisplayName/>
+  <Description/>
+  <CreatedAt>1742119578206</CreatedAt>
+  <LastModifiedAt>1742119708528</LastModifiedAt>
+  <BasePaths>/authserver</BasePaths>
+  <Policies>
+    <Policy>OAuthV2-2</Policy>
+  </Policies>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+</APIProxy>
