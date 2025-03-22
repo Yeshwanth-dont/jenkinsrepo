@@ -9,7 +9,7 @@
     <!-- <Verb>GET</Verb> -->
     <Path/>
     <Payload>
-      {"error":"damaal"}
+      {"error":"damaall"}
     </Payload>
   </Set>
   <AssignVariable>
